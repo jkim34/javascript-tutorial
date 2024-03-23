@@ -26,7 +26,8 @@ if (isLocalStorageSupported()) {
 }
 ```
 
-**Course Glossary**
+**Course Glossary**  
+
 Welcome! This alphabetized glossary contains many of the terms you'll find within this course. This comprehensive glossary also includes additional industry-recognized terms not used in course videos. These terms are important for you to recognize when working in the industry, participating in user groups, and participating in other certificate programs.
 
 | Term	| Definition |
